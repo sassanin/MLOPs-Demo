@@ -1,5 +1,5 @@
 make
 pylint
 pytest-cov
-pandas
+
 
